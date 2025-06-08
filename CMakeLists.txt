@@ -7,4 +7,16 @@ add_executable(AlgorytmGenetycznySudoku
         main.c
         sudoku.c
         sudoku.h
+        board_operations.c
+        board_operations.h
+        population.c
+        population.h
+        selection.c
+        selection.h
+        crossover.c
+        crossover.h
+        mutation.c
+        mutation.h
+        evolution.c
+        evolution.h
 )
